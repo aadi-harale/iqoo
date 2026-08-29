@@ -16,11 +16,11 @@ Most mobile security apps are reactive—they scan files against known cloud dat
 
 | Home Dashboard | Device Digital Twin |
 |:---:|:---:|
-| <img src="https://github.com/aadi-harale/iqoo/raw/main/docs/1_home.png" width="250" /> | <img src="https://github.com/aadi-harale/iqoo/raw/main/docs/2_device.png" width="250" /> |
+| <img src="https://raw.githubusercontent.com/aadi-harale/iqoo/main/docs/1_home.png" width="250" /> | <img src="https://raw.githubusercontent.com/aadi-harale/iqoo/main/docs/2_device.png" width="250" /> |
 
 | Demo Lab | Live Threat Analysis |
 |:---:|:---:|
-| <img src="https://github.com/aadi-harale/iqoo/raw/main/docs/3_demolab.png" width="250" /> | <img src="https://github.com/aadi-harale/iqoo/raw/main/docs/4_analysis.png" width="250" /> |
+| <img src="https://raw.githubusercontent.com/aadi-harale/iqoo/main/docs/3_demolab.png" width="250" /> | <img src="https://raw.githubusercontent.com/aadi-harale/iqoo/main/docs/4_analysis.png" width="250" /> |
 
 ---
 
