@@ -14,13 +14,10 @@ Most mobile security apps are reactive—they scan files against known cloud dat
 
 ## 📸 See it in Action
 
-| Home Dashboard | Device Digital Twin |
-|:---:|:---:|
-| <img src="./docs/1_home.png" width="250" /> | <img src="./docs/2_device.png" width="250" /> |
-
-| Demo Lab | Live Threat Analysis |
-|:---:|:---:|
-| <img src="./docs/3_demolab.png" width="250" /> | <img src="./docs/4_analysis.png" width="250" /> |
+![Home Dashboard](docs/1_home.png)
+![Device Digital Twin](docs/2_device.png)
+![Demo Lab](docs/3_demolab.png)
+![Live Threat Analysis](docs/4_analysis.png)
 
 ---
 
