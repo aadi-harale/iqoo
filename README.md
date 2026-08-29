@@ -1,8 +1,29 @@
-# iQOO Guardian 🛡️
+<div align="center">
+  <h1>🛡️ iQOO Guardian</h1>
+  <p><b>Your phone understands threats before you do.</b></p>
+  <p><i>An On-Device, AI-Driven Immune System for Android</i></p>
+</div>
 
-> **"Your phone understands threats before you do."**
+<br/>
 
-iQOO Guardian is an **On-Device Intelligence Layer** built for Android. Rather than functioning as a reactive, cloud-dependent antivirus or a generic "RAM booster," Guardian acts as a biological immune system for your device. It continuously monitors physical and software telemetry—and correlates those signals in real-time to detect anomalous behavior.
+Most mobile security apps are reactive—they scan files against known cloud databases, act as generic "RAM boosters," or just give you a dashboard of static stats. 
+
+**iQOO Guardian** is different. It is an **On-Device Intelligence Layer**. Instead of relying on the cloud, Guardian acts like a biological immune system. It constantly monitors physical and software signals (Thermals, Battery drain, App network requests, Memory pressure) and correlates them in real-time to detect anomalous behavior that traditional antivirus software misses.
+
+---
+
+## 📸 See it in Action
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Home Dashboard</b><br/><img src="docs/1_home.png" width="250"/></td>
+      <td align="center"><b>Device Digital Twin</b><br/><img src="docs/2_device.png" width="250"/></td>
+      <td align="center"><b>Demo Lab</b><br/><img src="docs/3_demolab.png" width="250"/></td>
+      <td align="center"><b>Live Threat Analysis</b><br/><img src="docs/4_analysis.png" width="250"/></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
