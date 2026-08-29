@@ -1,0 +1,36 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Shield silhouette -->
+    <path
+        android:pathData="M54,26 L79,35 L79,54 C79,69 68,79 54,84 C40,79 29,69 29,54 L29,35 Z"
+        android:strokeColor="#F7F7F8"
+        android:strokeWidth="3.2"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round" />
+
+    <!-- Outer signal arc -->
+    <path
+        android:pathData="M42,62 C38,57 38,49 42,44"
+        android:strokeColor="#D7FF32"
+        android:strokeWidth="3"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M66,44 C70,49 70,57 66,62"
+        android:strokeColor="#D7FF32"
+        android:strokeWidth="3"
+        android:strokeLineCap="round" />
+
+    <!-- Central intelligence pulse -->
+    <path
+        android:pathData="M54,47 m-5.5,0 a5.5,5.5 0 1,0 11,0 a5.5,5.5 0 1,0 -11,0"
+        android:fillColor="#D7FF32" />
+    <path
+        android:pathData="M54,58 L54,70"
+        android:strokeColor="#F7F7F8"
+        android:strokeWidth="3"
+        android:strokeLineCap="round" />
+</vector>
