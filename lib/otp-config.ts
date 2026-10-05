@@ -11,9 +11,9 @@ export function resolveOtpRuntimeConfig(env:Record<string,string|undefined>):Otp
     return{secret:configured,demo:demoFlag==="true",source:"configured"};
   }
   if(demoFlag==="false")return null;
-  const deploymentIdentity=env.VERCEL_PROJECT_ID||env.VERCEL_PROJECT_PRODUCTION_URL||env.VERCEL_URL||"local-sih-demo";
+  const deploymentIdentity=env.VERCEL_PROJECT_ID||env.VERCEL_PROJECT_PRODUCTION_URL||env.VERCEL_URL||"local-demo";
   return{
-    secret:`kaamsabha-sih-demo:${deploymentIdentity}:26089`,
+    secret:`kaamsabha-demo:${deploymentIdentity}:26089`,
     demo:true,
     source:"demo-fallback"
   };
